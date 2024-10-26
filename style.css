@@ -1,0 +1,16 @@
+img {
+  display: none;
+}
+.p {
+  z-index: 1000;
+  color: white;
+  position: absolute;
+}
+.div {
+  z-index: 1000;
+  color: white;
+  position: absolute;
+}
+body {
+  overflow: hidden;
+}
